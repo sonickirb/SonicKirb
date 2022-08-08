@@ -1,3 +1,9 @@
 Im SonicKirb.
-I mostly use the C# programming language.
-And thats really all.
+I use these programming languages!
+C
+C++
+C#
+Python
+Java
+Javascript
+etc
