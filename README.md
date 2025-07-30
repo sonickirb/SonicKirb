@@ -1,1 +1,1 @@
-just some random game developer
+just some programmer i guess
